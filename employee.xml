@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+    <employee id="1">
+        <firstname>Nguyen</firstname>
+        <middlename>Van</middlename>
+        <lastname>A</lastname>
+        <age>23</age>
+    </employee>
+    <employee id="2">
+        <firstname>Nguyen</firstname>
+        <middlename>Van</middlename>
+        <lastname>B</lastname>
+        <age>20</age>
+    </employee>
+</employees>
